@@ -1,3 +1,3 @@
 # carrito-compras
 
-- Jdk 21
+- Jdk 21.
